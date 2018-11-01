@@ -1,0 +1,6 @@
+{
+  "from_addr":"send_email_address",
+  "to_addr":"to_email_address",
+  "password":"key_value(not just password,please view the document of that)",
+  "smtp_server":"smtp_server address,for example:smtp.exmail.qq.com"
+}
